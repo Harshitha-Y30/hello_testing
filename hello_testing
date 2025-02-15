@@ -1,0 +1,7 @@
+def factorial(n)
+  if n==0:
+    return;
+  else:
+    return n*factorial(n);
+
+number=5
